@@ -1,3 +1,5 @@
+package OOP_1618.EA.KE1;
+
 public class Mathematiker {
   public static void main(String[] args) throws Exception {
     try {

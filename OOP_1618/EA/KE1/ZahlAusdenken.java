@@ -1,3 +1,5 @@
+package OOP_1618.EA.KE1;
+
 class ZahlAusdenken {
   public static void main(String[] args) throws Exception {
     try {

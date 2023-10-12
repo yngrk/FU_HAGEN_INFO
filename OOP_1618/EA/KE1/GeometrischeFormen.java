@@ -1,3 +1,5 @@
+package OOP_1618.EA.KE1;
+
 public class GeometrischeFormen {
   public static void main(String[] args) {
     String form = args[0];

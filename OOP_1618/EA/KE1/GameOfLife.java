@@ -1,3 +1,5 @@
+package OOP_1618.EA.KE1;
+
 public class GameOfLife {
   boolean[][] feld = {
       { false, false, false, false, false },
