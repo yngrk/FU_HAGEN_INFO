@@ -10,7 +10,7 @@ public class Main {
     p.print();
     Toy b = ToyFactory.getToy("TeddyBear");
     b.print();
-    Toy x = ToyFactory.getToy("Blabla");
+    Toy x = ToyFactory.getToy("NoToy");
     x.print();
   }
 }
