@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC.EA2.Toys;
+package OOP_1618.ADHOC.KE2.Toys;
 
 public class Main {
   public static void main(String[] args) throws NoSuchToyException {

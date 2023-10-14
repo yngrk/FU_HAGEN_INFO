@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC.EA2.MaxWeightContainer;
+package OOP_1618.ADHOC.KE2.MaxWeightContainer;
 
 public class MaxWeightContainer {
   private Weighable heaviest;

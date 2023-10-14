@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC.EA2.ObjectContainer;
+package OOP_1618.ADHOC.KE2.ObjectContainer;
 
 public class ObjectContainer {
   private Object element;
