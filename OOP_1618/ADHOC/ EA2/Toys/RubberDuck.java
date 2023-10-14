@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC.Toys;
+package OOP_1618.ADHOC.EA2.Toys;
 
 public class RubberDuck extends Toy {
   public void print() {

@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC;
+package OOP_1618.ADHOC.EA2;
 
 import java.lang.Math;
 import java.util.Arrays;

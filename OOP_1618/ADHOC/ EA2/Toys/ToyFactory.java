@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC.Toys;
+package OOP_1618.ADHOC.EA2.Toys;
 
 public class ToyFactory {
   public static Toy getToy(String toy) throws NoSuchToyException {

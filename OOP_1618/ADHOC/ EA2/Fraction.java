@@ -1,4 +1,4 @@
-package OOP_1618.ADHOC;
+package OOP_1618.ADHOC.EA2;
 
 class Fraction {
   private int numerator;
