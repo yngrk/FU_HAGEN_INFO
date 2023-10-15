@@ -53,14 +53,14 @@ public class BinaryNode {
 
   public void inorder() {
     /**
-     * order: This>Left>Right
+     * inorder: leftSon>This->rightSon
      */
-
-    System.out.println(value);
 
     if (leftSon != null) {
       leftSon.inorder();
     }
+
+    System.out.println(value);
 
     if (rightSon != null) {
       rightSon.inorder();
