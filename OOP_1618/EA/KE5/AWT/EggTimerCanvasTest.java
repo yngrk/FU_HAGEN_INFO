@@ -38,7 +38,6 @@ public class EggTimerCanvasTest {
     frame.setLocationRelativeTo(null);
 
     // Sichtbarmachen des Fensters.
-    frame.setVisible(true);
 
     for (int i = 0; i < 4; i++) {
       // Eine Sekunde Pause (wird in KE6 näher erläutert).
